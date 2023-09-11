@@ -1,6 +1,6 @@
 import ReactDOM from 'react-dom/client';
 function App() {
-  return <h1>Test Statement</h1>;
+  return <hi>Test Statement</hi>
 }
 const container = document.getElementById('app');
 const root = ReactDOM.createRoot(container);
